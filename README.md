@@ -4,7 +4,8 @@ Donation analysis for insight data engineering challenge.
 
 Library used: pandas.
 
-run.sh run the main analysis script donation-analytics.py which take 3 arguments:
+run.sh run the main analysis script "donation-analytics.py" which takes 3 arguments:
+
 1)input donation data: input/itcont.txt
 2)input percentile used: input/percentile.txt
 3)output of analysis: output/repeat_donors.txt
